@@ -4,7 +4,7 @@
 
 int main() {
     int length;
-    std::cout << "Enter password length: ";
+    std::cout << "Enter password length: "; 
     std::cin >> length;
 
     if (length <= 0) {
