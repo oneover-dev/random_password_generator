@@ -1,5 +1,5 @@
 <?php   
- 
+  
 echo "Enter password length: ";
 $length = trim(fgets(STDIN));
 
